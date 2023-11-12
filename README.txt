@@ -1,4 +1,5 @@
-Base de datos en Python con las siguientes funcionalidades: consultar, crear, modificar y eliminar elementos con diferentes atributos. Se puede aplicar y adaptar a cualquier negocio. En este caso está enfocado en el Universo Star Wars para ser más ameno y divertido. Funciona como una base de datos del archivo del Templo Jedi, donde puedes consultar por los diferentes usuarios de la fuerza.
+Base de datos en Python con las siguientes funciones: consultar, crear, modificar y eliminar elementos con diferentes atributos. Para hacerlo más ameno y divertido está dedicado al universo Star Wars. 
+Se puede aplicar y adaptar a cualquier negocio.
 
 Requisitos:
 -Python 3
@@ -15,7 +16,8 @@ Chris O.
 
 
 ----------------------------------------
-Database in Python with the following functionalities: query, create, modify and delete elements with different attributes. It can be applied and adapted to any business. In this case it is focused on the Star Wars Universe to be more enjoyable and fun. It functions as a database of the Jedi Temple archive, where you can query the different force users.
+Database in Python with the following functions: query, create, modify and delete elements with different attributes. To make it more enjoyable and fun, it is dedicated to the Star Wars universe.
+It can be applied and adapted to any business.
 
 Requirements:
 -Python 3
